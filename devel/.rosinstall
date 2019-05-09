@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hriday/workspace/ros/hdl_packages/src/g2o/devel/setup.sh

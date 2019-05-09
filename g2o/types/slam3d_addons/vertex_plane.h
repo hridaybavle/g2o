@@ -68,7 +68,7 @@ namespace g2o
         return 4;
       }
 
-      Vector3D color;
+      //Vector3D color;
     };
 
 #ifdef G2O_HAVE_OPENGL
